@@ -1,6 +1,6 @@
 <div>
 <h1>Olá 👋, sou Angelo Botelho.</h1>
-<h3>Há 4 anos desenvolvo relatórios e processos dentro do ERP Sankhya.</h3>
+<h5>Há 4 anos trabalho com desenvolvimento de relatórios e processos dentro do ERP Sankhya.</h5>
 <hr>
  <!-- REDES SOCIAIS !-->
   <h5>Especialidade</h5>
