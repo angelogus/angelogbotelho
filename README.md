@@ -16,9 +16,9 @@
   <h5>Atualmente aprendendo</h5>
 <div>
 <p dir="auto">
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"></a>
-    <a href="><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></a>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="max-width: 100%;"></a>
+    <a><img alt="angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" style="max-width: 100%;"></a>
+    <a><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></a>
+    <a><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="max-width: 100%;"></a>
 </p>
 </div>
 
