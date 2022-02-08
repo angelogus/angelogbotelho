@@ -23,6 +23,7 @@
   <a href=""><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width: 100%;"></a>
   <a href=""><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" data-canonical-src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
+<hr>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelogus&show_icons=true&locale=en&layout=compact" alt="angelogus" /></p>
 
