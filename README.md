@@ -1,4 +1,4 @@
-<h1>Olá 👋, sou Angelo Botelho</h1>
+<h1>Olá 👋, sou Angelo Botelho.</h1>
 <h3>Há 4 anos desenvolvo relatórios e processos dentro do ERP Sankhya.</h3>
 
 - 🌱 Atualmente estou aprendendo **html5, css e angularJS**.
