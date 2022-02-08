@@ -10,7 +10,7 @@
   <h5>Linguagens de Programação</h5>
 <div>
 <p dir="auto">
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://camo.githubusercontent.com/2559d67d8c0d20f0719fdb1be082fb115f0a3b0e5121de9ebc2394a14b2598d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2532302d2532333032354538432e7376673f6c6f676f3d616d617a6f6e2d64796e616d6f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href=""><img alt="Oracle SQL" src="https://camo.githubusercontent.com/2559d67d8c0d20f0719fdb1be082fb115f0a3b0e5121de9ebc2394a14b2598d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2532302d2532333032354538432e7376673f6c6f676f3d616d617a6f6e2d64796e616d6f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 </div>
   <h5>Atualmente aprendendo</h5>
