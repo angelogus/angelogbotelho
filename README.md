@@ -1,15 +1,16 @@
 ## Angelo Gustavo Botelho
 ###### - Desenvolvo Relatórios Oracle e iReport. 
 ###### - Futuro Cientista de dados.
-<div align="center">
+<br>
+<div style="display: inline_block"><br>
   <a href="https://github.com/angelogbotelho">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=angelogus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelogus&layout=compact&langs_count=7&theme=dark"/>
-</div><br>
+  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelogus&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" height="50" width="60" src="https://lh5.ggpht.com/3cptDG3XK-R60SBmTRdW06daicNvVOMJ_uAdwDqPyPhm_kUaYg4hqdtxk4Rz4AYrcXI">
-  <img align="center" height"50" width="60" src="https://media.glassdoor.com/sqll/1061278/sankhya-gest%C3%A3o-de-neg%C3%B3cios-squarelogo-1580147712971.png">
+  <img align="center" height="50" width="60" src="https://media.glassdoor.com/sqll/1061278/sankhya-gest%C3%A3o-de-neg%C3%B3cios-squarelogo-1580147712971.png">
 </div>
 <div style="dislay: inline_block"><br>
   ## Em aprendizado
